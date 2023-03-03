@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="40" height="40"/> </a> <a href="https://www.unity.com" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/11/Unity-Emblem-700x394.png" alt="Unity" width="70" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakgupta0908&show_icons=true&locale=en" alt="palakgupta0908" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth2410&show_icons=true&locale=en" alt="hemanth2410" /></p>
 <!--
 **hemanth2410/hemanth2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
