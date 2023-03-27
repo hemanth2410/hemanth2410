@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Synthetic Nightmare</h1>
 
-<!--<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp">-->
-<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.6435-9/61700587_1374107669404720_7341415988786626560_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yA8i0G-rT7IAX99tFia&_nc_ht=scontent.fhyd2-1.fna&oh=00_AfAYJRZyWU-yyOaDyABCQ9eJ544lwEoddhmVsbWUaEtMZg&oe=6432395C">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp">
+<!--<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.6435-9/61700587_1374107669404720_7341415988786626560_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yA8i0G-rT7IAX99tFia&_nc_ht=scontent.fhyd2-1.fna&oh=00_AfAYJRZyWU-yyOaDyABCQ9eJ544lwEoddhmVsbWUaEtMZg&oe=6432395C">-->
  - 🏫 I am a highly specialized game design and development expert, adept at pushing the boundaries of what's possible to create uniquely captivating and immersive gaming experiences. My passion for expanding the frontiers of game design is driven by the same curiosity and sense of exploration that inspired Carl Sagan's visionary Pale Blue Dot speech, which emphasized the limitless potential of human creativity and ingenuity.
  
 -  💻 I possess extensive expertise in the advanced Unity game engine, with a mastery of C#, Python, robotics, and the intricacies of deep learning. My technical skills are unparalleled, and I am driven to explore the frontiers of cutting-edge technology in order to unlock new realms of possibility.
