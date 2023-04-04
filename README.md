@@ -2,9 +2,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/d31wIu3HgY048MKs/giphy.webp">
 <!--<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.6435-9/61700587_1374107669404720_7341415988786626560_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yA8i0G-rT7IAX99tFia&_nc_ht=scontent.fhyd2-1.fna&oh=00_AfAYJRZyWU-yyOaDyABCQ9eJ544lwEoddhmVsbWUaEtMZg&oe=6432395C">-->
- - 🏫 I am a highly specialized game design and development expert, adept at pushing the boundaries of what's possible to create uniquely captivating and immersive gaming experiences. My passion for expanding the frontiers of game design is driven by the same curiosity and sense of exploration that inspired Carl Sagan's visionary Pale Blue Dot speech, which emphasized the limitless potential of human creativity and ingenuity.
- 
--  💻 I possess extensive expertise in the advanced Unity game engine, with a mastery of C#, Python, robotics, and the intricacies of deep learning. My technical skills are unparalleled, and I am driven to explore the frontiers of cutting-edge technology in order to unlock new realms of possibility.
+Hi there, my name is Sai Hemanth Sattenapalli. I am a programmer and game developer with a passion for cutting-edge technology. Over the years, I have developed a diverse set of skills, including expertise in robotics, python, and autonomous vehicle technology. I believe that technology has the power to change the world for the better, and I am dedicated to using my skills to make a positive impact in society.
+
+My work in game development has taught me the importance of creativity, collaboration, and perseverance. As a programmer, I strive to create code that is efficient, elegant, and user-friendly. I believe that good programming is not just about writing code, but also about problem-solving and communication.
+
+My interest in robotics and autonomous vehicle technology has led me to explore the cutting edge of automation and machine learning. I am excited about the possibilities of these technologies, and I am eager to continue learning and pushing the boundaries of what is possible.
+
+Overall, I am a driven and curious individual who is passionate about technology and its potential to make the world a better place. I am always seeking new challenges and opportunities to learn and grow, and I look forward to what the future holds.
 
 - 📫 How to reach me **saihemanth.s@outlook.com**
 
