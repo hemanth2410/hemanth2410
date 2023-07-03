@@ -29,6 +29,17 @@ Overall, I am a driven and curious individual who is passionate about technology
 
 https://github.com/hemanth2410/hemanth2410/assets/24288422/64bd087b-4be1-46b4-a7ef-5e40d9b2973d
 
+<h3>Features:</h3>
+1. <b>>Utilizing Unity's New Addressables</b>: Our technology leverages Unity's powerful Addressables system to efficiently manage and load game assets. This allows for dynamic and optimized loading of assets based on player's location.
+
+2. <b>Dynamic Chunk Loading</b>: We have implemented a robust system that calculates the player's position and intelligently loads chunks of the game map that are within a certain range, typically set to less than 1700 meters in all directions. This ensures that the player experiences a seamless and immersive gameplay environment.
+
+3. <b>Asynchronous Unloading</b>: To maintain optimal performance, we have incorporated asynchronous unloading of unwanted mesh data and other objects. This ensures that only the necessary assets are loaded and active in the game scene, optimizing memory usage and improving overall performance.
+
+4. <b>Non-Blocking Workflow</b>: Our technology ensures that the main thread is not locked during the loading process. We have implemented an async workflow that allows for concurrent loading and processing of assets, preventing any noticeable hitches or delays in the gameplay experience.
+
+We are excited to share our progress and collaborate with the game development community to advance open world streaming technology. Join us on this exciting journey as we work towards creating immersive and expansive virtual worlds.
+
 
 <!--
 **hemanth2410/hemanth2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
