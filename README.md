@@ -30,7 +30,7 @@ Overall, I am a driven and curious individual who is passionate about technology
 https://github.com/hemanth2410/hemanth2410/assets/24288422/64bd087b-4be1-46b4-a7ef-5e40d9b2973d
 
 <h3>Features:</h3>
-1. <b>>Utilizing Unity's New Addressables</b>: Our technology leverages Unity's powerful Addressables system to efficiently manage and load game assets. This allows for dynamic and optimized loading of assets based on player's location.
+1. <b>Utilizing Unity's New Addressables</b>: Our technology leverages Unity's powerful Addressables system to efficiently manage and load game assets. This allows for dynamic and optimized loading of assets based on player's location.
 
 2. <b>Dynamic Chunk Loading</b>: We have implemented a robust system that calculates the player's position and intelligently loads chunks of the game map that are within a certain range, typically set to less than 1700 meters in all directions. This ensures that the player experiences a seamless and immersive gameplay environment.
 
