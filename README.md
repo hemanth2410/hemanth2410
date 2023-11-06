@@ -44,11 +44,12 @@ https://github.com/hemanth2410/hemanth2410/assets/24288422/415c3325-6070-4e2b-bc
 
 We are excited to share our progress and collaborate with the game development community to advance open world streaming technology. Join us on this exciting journey as we work towards creating immersive and expansive virtual worlds.
 
+<h3 align="left">A practice project</h3>
+https://github.com/hemanth2410/Freedom-fighters-Remake
 
 <h3>Upcoming game i am working on</h3>
 <img width="736" alt="Reflection Of the self2" src="https://github.com/hemanth2410/hemanth2410/assets/24288422/add5bc0d-a4d9-49de-b50b-08cd905ce97d">
-<img width="736" alt="Reflection Of the self1" src="https://github.com/hemanth2410/hemanth2410/assets/24288422/5b0a23fb-858f-4fbd-96b7-fe8d0cccce75">
-<img width="736" alt="Reflection Of the self" src="https://github.com/hemanth2410/hemanth2410/assets/24288422/bc8709f8-68f8-42ea-a26a-c9bad698f4e2">
+
 
 
 <!--
