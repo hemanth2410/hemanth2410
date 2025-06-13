@@ -10,6 +10,8 @@ My interest in robotics and autonomous vehicle technology has led me to explore 
 
 Overall, I am a driven and curious individual who is passionate about technology and its potential to make the world a better place. I am always seeking new challenges and opportunities to learn and grow, and I look forward to what the future holds.
 
+<i>Currently recovering my passion after a corporate gauntlet — now building things that matter</i>
+
 - 📫 How to reach me **saihemanth.s@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
