@@ -49,13 +49,23 @@ We are excited to share our progress and collaborate with the game development c
 <h3 align="left">A practice project</h3>
 https://github.com/hemanth2410/Freedom-fighters-Remake
 
-<h3>Upcoming game i am working on</h3>
-<img width="736" alt="Reflection Of the self2" src="https://github.com/hemanth2410/hemanth2410/assets/24288422/add5bc0d-a4d9-49de-b50b-08cd905ce97d">
+<h3>Experiments with raymarching</h3>
 
+<b>Ray marching</b>: This sphere is completely mathematical and generated using shader math, not mesh.
+https://github.com/user-attachments/assets/8e009a61-e180-46cb-9ae5-8d22d9a56ff6
+<b>Gravitational lensing</b>: i have used the above mentioned concept to create a black hole without accretion disc
+https://github.com/user-attachments/assets/d43fa80e-bfba-406e-bb1f-f2b7575c39e9
+<b>Density volume using raymarching</b>: I tried creating accretion disc using mesh and SDF technique but result was fruitless so i switched the things and am currently trying to simulate it as a cloud.
+https://github.com/user-attachments/assets/fa89d3d1-3ab7-487a-922a-28636273cc11
+Next i will be combining above techniques to render gargantua from interstellar
 
 
 <!--
 **hemanth2410/hemanth2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
