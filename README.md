@@ -86,4 +86,4 @@ Here are some ideas to get you started:
 -->
 
 
-[CV (1).pdf](https://github.com/user-attachments/files/24557001/CV.1.pdf)
+[Resume.pdf](https://github.com/user-attachments/files/24557001/CV.1.pdf)
